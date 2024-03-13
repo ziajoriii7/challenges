@@ -4,3 +4,6 @@
 [submodule "project-euler"]
 	path = project-euler
 	url = https://github.com/ziajoriii7/project-euler
+[submodule "g-programming-challenges"]
+	path = g-programming-challenges
+	url = https://github.com/ziajoriii7/g-programming-challenges
