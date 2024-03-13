@@ -1,3 +1,6 @@
 [submodule "replit100DaysOfCode"]
 	path = replit100DaysOfCode
 	url = https://github.com/ziajoriii7/replit100DaysOfCode
+[submodule "project-euler"]
+	path = project-euler
+	url = https://github.com/ziajoriii7/project-euler
